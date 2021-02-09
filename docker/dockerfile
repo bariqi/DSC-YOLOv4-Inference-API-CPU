@@ -1,6 +1,6 @@
 FROM python:3.6
 
-LABEL maintainer="antoine.charbel@inmind.ai"
+LABEL maintainer="945432@telkom.co.id"
 
 COPY docker/requirements.txt .
 ENV HOME /root
